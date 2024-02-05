@@ -1,5 +1,5 @@
 ![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG)
-- 👋 Hey, I’m Dariush, a Mary-Curie last year PhD fellow at EURAC Research Institute in Bozen/Bolzano, Italy.
+- 👋 Hey, I’m Dariush, a last year Mary-Curie PhD fellow at EURAC Research Institute in Bozen/Bolzano, Italy.
 - 👀 I've been constantly looking for the approaches hunting the causal gnetic variants linked to the complex traits like Chronic Kideny Diseases (CKD).
 - 🌱  As I'm doing my PhD at Leiden University Medical Center in the Netherlands, , I’m currently learning the biological obstacles for CKD and trying to find a robust statistical approch to properly cope with it, e.g. reducing the false discovery rate of GWAS and increase the power.
 - 💞️ I’m looking to collaborate on drug targets dicovery projects.
