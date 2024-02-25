@@ -1,9 +1,9 @@
 ![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG)
-- 👋 Hey, I’m Dariush, a last year Mary-Curie PhD fellow at EURAC Research Institute in Bozen/Bolzano, Italy.
-- 👀 I've been constantly looking for the causal genetic variations linked to the complex traits esp. chronic kideny diseases (CKD).
-- 🌱  As a PhD student at Leiden University Medical Center in the Netherlands, I’m currently learning the biological obstacles for CKD and trying to find a robust statistical approch to properly cope with it, e.g. reducing the false discovery rate of GWAS and increase the power.
+- 👋 Hey, I’m Dariush, a last year Mary-Curie PhD fellow at Leiden University Medical Center (LUMC) in the Netherlands.
+- 👀 I've been looking for the causal genetic variations linked to chronic kideny diseases (CKD) and encountering with the biological obstacles for the last three years at EURAC Research Institute in Bozen/Bolzano, Italy.
+- 🌱 We are currently trying to find a robust statistical approch to properly cope with it, e.g. reducing the false discovery rate of GWAS and increase the power.
 - 💞️ I’m looking to collaborate on drug targets dicovery projects.
-- 📫 How to reach me? Drop me a line, please -> `ghasemi.dariush-at-yahoo.com`
+- 📫 How to reach me? Drop me a line, please -> `ghasemi-dot-dariush-at-yahoo-dot-com`
 
 <!---
 DariushG3/DariushG3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
