@@ -1,6 +1,6 @@
 ![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG)
 - 👋 Hey, I am a statistical geneticist at Human Technopole in Milan, and a last year Mary-Curie PhD fellow at Leiden University Medical Center in the Netherlands. 
-- 👀 I've been looking for the genetic variations linked to chronic kideny diseases for the last three years. 
+- 👀 I've been looking for the genetic variations linked to chronic kideny diseases since 2021. 
 - 🌱 We are currently working on genetic loci affecting proteins levels using robust statistical approches.
 - 💞️ I’m looking to collaborate on drug targets dicovery projects.
 - 📫 How to reach me? Drop me a line, please -> `ghasemi-dot-dariush-at-yahoo-dot-com`
