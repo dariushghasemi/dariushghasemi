@@ -4,7 +4,7 @@
 - 🌱 We are currently working on pQTLs using post-GWAS technigues.
 - 💞️ I’m looking to collaborate on drug targets dicovery projects. 
 - 📫 How to reach me? Drop me a line -> `ghasemi[dot]dariush[at]yahoo[dot]c-o-m`
-     
+      
 <!---
 DariushG3/DariushG3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
