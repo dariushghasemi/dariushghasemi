@@ -1,7 +1,7 @@
 ![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG) 
-- 👋 Hey, I am a statistical geneticist at Human Technopole in Milan, and a last year Mary-Curie PhD fellow at Leiden University Medical Center in the Netherlands. 
-- 👀 I've been looking for the genetic variations linked to chronic kideny diseases since 2021. 
-- 🌱 We are currently working on pQTLs using post-GWAS technigues. 
+- 👋 Hey, I am a statistical geneticist currently working on genetic architechture of protein QTLs at Human Technopole in Milan
+- 👀 I was a Mary-Curie PhD fellow jointly at Eurac Research in Italy and Leiden University Medical Center in the Netherlands. 
+- I investigated the genetic variations linked to chronic kideny diseases in my PhD. 
 - 💞️ I’m looking to collaborate on drug targets dicovery projects.
 - 📫 How to reach me? Drop me a line -> `ghasemi[dot]dariush[at]yahoo[dot]c-o-m`
        
