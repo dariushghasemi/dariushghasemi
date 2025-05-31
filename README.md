@@ -1,5 +1,5 @@
 ![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG) 
-- 👋 Hey, I am a statistical geneticist currently working on genetic architechture of protein QTLs at Human Technopole in Milan
+- 👋 Hey, I am a statistical geneticist currently working on genetic architechture of protein QTLs at Human Technopole institute in Milan.
 - 👀 I was a Mary-Curie PhD fellow jointly at Eurac Research in Italy and Leiden University Medical Center in the Netherlands. 
 - I investigated the genetic variations linked to chronic kideny diseases in my PhD. 
 - 💞️ I’m looking to collaborate on drug targets dicovery projects.
