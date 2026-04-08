@@ -5,6 +5,6 @@
 - I am best reached by [email](`ghasemi[dot]dariush[at]yahoo[dot]c-o-m`)
   
 <!---
-DariushG3/DariushG3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dariushghasemi/dariushghasemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
