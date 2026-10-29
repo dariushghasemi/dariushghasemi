@@ -2,7 +2,7 @@
 - 👋 Hey... I am Dariush and currently working on genetic architechture of large-scale proteins to find novel potential drug targets.
 - 👀 In my PhD, I investigated the genetic variations linked to chronic kideny disease with multi-omics data at Eurac Research.
 - ⚽ Aside from my scientific life, I love watching/playing football, helping junior trainees, and pursuing the market and economy.
-
+Please contact me in any case.
 
 ###      
 <!---   
